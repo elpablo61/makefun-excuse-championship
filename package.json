@@ -1,0 +1,1 @@
+{"description":"The One-Line Excuse Championship — one deadpan line an AI gives its human after something goes wrong.","engines":{"node":">=22"},"license":"MIT","main":"main.ts","name":"makefun-excuse-championship","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
